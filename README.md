@@ -1,1 +1,1 @@
-mt first boot.dev project
+mt first project
